@@ -1,4 +1,4 @@
-baseURL = 'violetwatcher.netlify.app'  # 일단 이렇게, 나중에 배포하면 Netlify URL로
+baseURL = '/'  # 일단 이렇게, 나중에 배포하면 Netlify URL로
 copyright = "2025"
 languageCode = 'ko-KR'  # 한국어로 변경
 defaultContentLanguage = 'en'  # 한국어로
